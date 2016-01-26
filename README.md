@@ -24,3 +24,9 @@ Why are you not using the Last.fm API?
 --------------------------------------
 The API does not always return the full biography and some of the useful 
 formatting is gone and therefore a different solution is needed to retrieve it.
+
+TODO
+----
+* Support for artist names with special characters
+
+
