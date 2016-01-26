@@ -12,7 +12,7 @@ Installation
 ![Screenshot showing the settings pane](http://i.imgur.com/SCCYexn.png)
 * Make sure that "Run External Script" is at the top of the "Current source list"
 * Go to the "Run External Script" under "Biography Server"
-* As "Command line" enter `python C:/SCRIPT_LOCATION/script.py "%artist%"`, replacing `SCRIPT_LOCATION` with, well.. you script's location
+* As "Command line" enter `python C:/SCRIPT_LOCATION/script.py "%artist%"`, replacing `SCRIPT_LOCATION` with, well.. your script's location
 * Set "Character code" to "UTF-8"
 
 ![Second screenshot showing the settings pane](http://i.imgur.com/iajXFT8.png)
