@@ -1,6 +1,6 @@
-LastFM Bio Scraper
+Last.fm Bio Scraper
 ==================
-This is a simple artist biography scraper written in Python, designed to be used with Foobar2000 and the biography plugin.
+This is a simple artist biography scraper written in Python, designed to be used with Foobar2000 and the biography plugin (which currently has broken in-built support for Last.fm).
 
 Installation
 ------------
